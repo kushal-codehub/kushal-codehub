@@ -118,29 +118,19 @@ Centralized monitoring and logging solution using Grafana, Prometheus, Loki and 
 
 # 🌐 Let's Connect
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/kushal-pillalamarri/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/kushal-codehub">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:kushalpillalamarri@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-</a>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/kushal-pillalamarri/">LinkedIn</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://github.com/kushal-codehub">GitHub</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="mailto:kushalpillalamarri@gmail.com">Email</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/kushal-codehub">
+    <img src="https://skillicons.dev/icons?i=github" width="55" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kushal-pillalamarri/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:kushalpillalamarri@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="55" />
+  </a>
+</p>
 
 ---
 
