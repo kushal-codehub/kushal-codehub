@@ -8,7 +8,7 @@
 
 ### Building reliable backend services, cloud infrastructure & automated deployment pipelines.
 
-<img src="https://komarev.com/ghpvc/?username=kushalpillalamarri&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=kushal-codehub&style=for-the-badge" />
 
 </div>
 
@@ -75,12 +75,12 @@ I enjoy building production-ready backend applications and automating cloud infr
 # 📈 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kushalpillalamarri&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalpillalamarri&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kushal-codehub&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal-codehub&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=kushalpillalamarri&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=kushal-codehub&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -88,7 +88,7 @@ I enjoy building production-ready backend applications and automating cloud infr
 # 📊 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kushalpillalamarri&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kushal-codehub&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -96,7 +96,7 @@ I enjoy building production-ready backend applications and automating cloud infr
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/kushalpillalamarri/kushalpillalamarri/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/kushal-codehub/kushal-codehub/output/github-contribution-grid-snake.svg"/>
 </p>
 
 > Configure the GitHub Actions workflow once to generate the snake animation automatically.
@@ -134,7 +134,7 @@ I enjoy building production-ready backend applications and automating cloud infr
 
 &nbsp;&nbsp;
 
-<a href="mailto:kushalpillalamarri@gmail.com">
+<a href="mailto:kushal-codehub@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
