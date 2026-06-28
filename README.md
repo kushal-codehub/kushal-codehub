@@ -89,12 +89,6 @@ Centralized monitoring and logging using Grafana, Prometheus, Loki and Node Expo
   <img height="170" src="https://streak-stats.demolab.com?user=kushal-codehub&theme=github-dark&hide_border=true"/>
 </p>
 
-## 🎯 Currently Building
-
-<p align="center">
-NestJS • AWS • Terraform • CI/CD • Monitoring • System Design • Cloud Security
-</p>
-
 ## 📩 Reach Out
 
 <div align="center">
