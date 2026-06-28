@@ -121,27 +121,29 @@ Centralized monitoring and logging solution using Grafana, Prometheus, Loki and 
 <p align="center">
 
 <a href="https://github.com/kushal-codehub">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
+  <img src="https://cdn.simpleicons.org/github/white" width="20" alt="GitHub"/>
 </a>
+&nbsp;
+<a href="https://github.com/kushal-codehub"><b>GitHub</b></a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/kushal-pillalamarri/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" alt="LinkedIn"/>
 </a>
+&nbsp;
+<a href="https://www.linkedin.com/in/kushal-pillalamarri/"><b>LinkedIn</b></a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:kushalpillalamarri@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-</a>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" alt="Email"/>
+&nbsp;
+<b>kushalpillalamarri@gmail.com</b>
 
 </p>
 
 <p align="center">
-<sub>
-Open to Backend • DevOps • Cloud Engineering opportunities
-</sub>
+  <sub>Open to Backend • DevOps • Cloud Engineering opportunities</sub>
 </p>
 
 ---
