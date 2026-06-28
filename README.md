@@ -23,11 +23,11 @@ Backend & DevOps Engineer passionate about building scalable backend services, c
 <table>
 <tr align="center">
 
-<th width="23%">⚙️ Backend</th>
-<th width="20%">☁️ Cloud</th>
-<th width="20%">🚀 DevOps</th>
-<th width="20%">🤖 Automation</th>
-<th width="30%">📊 Observability</th>
+<th width="21%">⚙️ Backend</th>
+<th width="18%">☁️ Cloud</th>
+<th width="18%">🚀 DevOps</th>
+<th width="19%">🤖 Automation</th>
+<th width="24%">📊 Observability</th>
 
 </tr>
 
