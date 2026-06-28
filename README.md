@@ -122,14 +122,12 @@ Centralized monitoring and logging solution using Grafana, Prometheus, Loki and 
   <a href="https://github.com/kushal-codehub">
     <img src="https://skillicons.dev/icons?i=github" width="22" alt="GitHub" />
   </a>
-  <strong>&nbsp;<a href="https://github.com/kushal-codehub">GitHub</a></strong>
 
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/kushal-pillalamarri/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="22" alt="LinkedIn" />
   </a>
-  <strong>&nbsp;<a href="https://www.linkedin.com/in/kushal-pillalamarri/">LinkedIn</a></strong>
 
   &nbsp;&nbsp;&nbsp;&nbsp;
 
