@@ -121,9 +121,9 @@ Centralized monitoring and logging solution using Grafana, Prometheus, Loki and 
 <div align="center">
 
 🐙 <a href="https://github.com/kushal-codehub"><b>GitHub</b></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 💼 <a href="https://www.linkedin.com/in/kushal-pillalamarri/"><b>LinkedIn</b></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 📧 <b>kushalpillalamarri@gmail.com</b>
 
 <sub>
