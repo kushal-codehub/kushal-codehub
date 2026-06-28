@@ -1,30 +1,30 @@
+<!-- ================= HERO ================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Kushal%20Pillalamarri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20DevOps%20Engineer&descAlignY=58"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1220,50:1E3A8A,100:2563EB&text=Kushal%20Pillalamarri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20DevOps%20Engineer&descAlignY=60"/>
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=3BA4F2&center=true&vCenter=true&width=900&lines=Building+Backend+Services+with+NestJS;Designing+REST+APIs;Automating+Cloud+Infrastructure;AWS+%7C+Docker+%7C+Terraform+%7C+CI%2FCD;Observability+with+Grafana+%26+Prometheus;Always+Learning+Something+New+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=900&lines=Building+Backend+Services+with+NestJS;Designing+REST+APIs;Automating+Cloud+Infrastructure;AWS+%7C+Docker+%7C+Terraform+%7C+CI%2FCD;Observability+with+Grafana+%26+Prometheus;Always+Learning+Something+New"/>
 
 ### Building reliable backend services, cloud infrastructure & automated deployment pipelines.
-
-<img src="https://komarev.com/ghpvc/?username=kushal-codehub&style=for-the-badge" />
 
 </div>
 
 ---
 
-# 💡 What I Build
+# 👨‍💻 About Me
 
-I enjoy building production-ready backend applications and automating cloud infrastructure with a focus on reliability, maintainability, and observability.
+I'm a **Backend & DevOps Engineer** passionate about building scalable applications and automating cloud infrastructure.
 
-- 🚀 Backend APIs using **NestJS** and **REST APIs**
-- ☁️ Cloud deployments on **AWS**
-- 🐳 Containerized applications with **Docker**
-- 🏗️ Infrastructure as Code using **Terraform** & **Ansible**
-- ⚙️ CI/CD automation with **GitHub Actions** & **Jenkins**
-- 📊 Monitoring & Logging using **Grafana**, **Prometheus** & **Loki**
-- 🌱 Exploring **Kubernetes**, **System Design**, and **Cloud Native** technologies
+- 💻 Building **REST APIs** with **NestJS**
+- ☁️ Deploying workloads on **AWS**
+- 🐳 Containerizing applications using **Docker**
+- 🏗️ Managing infrastructure with **Terraform** & **Ansible**
+- ⚙️ Creating CI/CD pipelines using **GitHub Actions** & **Jenkins**
+- 📊 Monitoring applications with **Grafana**, **Prometheus** & **Loki**
+- 🌱 Exploring **Kubernetes**, **System Design** & **Cloud Native**
 
 ---
 
@@ -42,7 +42,7 @@ I enjoy building production-ready backend applications and automating cloud infr
 <img src="https://skillicons.dev/icons?i=aws,docker,terraform,ansible,jenkins,githubactions,linux,git,bash"/>
 </p>
 
-### Observability
+### Monitoring & Observability
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=grafana,prometheus"/>
@@ -50,25 +50,15 @@ I enjoy building production-ready backend applications and automating cloud infr
 
 ---
 
-# 🚀 Featured Projects
+# 📂 Featured Projects
 
-### 🚀 End-to-End DevOps Pipeline
-- Infrastructure provisioning with Terraform
-- CI/CD with GitHub Actions & Jenkins
-- Dockerized deployments on AWS
+> Replace the repository names and links below with your actual repositories.
 
-### ⚡ Backend REST API
-- NestJS
-- REST APIs
-- PostgreSQL
-- JWT Authentication
-- Docker
-
-### 📊 Observability Stack
-- Grafana Dashboards
-- Prometheus Metrics
-- Loki Logging
-- Node Exporter
+| Project | Tech Stack | Repository |
+|:--------|:-----------|:----------|
+| ⚙️ **End-to-End DevOps Pipeline** | AWS • Terraform • Docker • Jenkins • GitHub Actions | `Add Repository Link` |
+| ⚡ **NestJS REST API** | NestJS • PostgreSQL • JWT • Docker | `Add Repository Link` |
+| 📊 **Observability Stack** | Grafana • Prometheus • Loki • Node Exporter | `Add Repository Link` |
 
 ---
 
@@ -85,36 +75,18 @@ I enjoy building production-ready backend applications and automating cloud infr
 
 ---
 
-# 📊 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kushal-codehub&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/kushal-codehub/kushal-codehub/output/github-contribution-grid-snake.svg"/>
-</p>
-
-> Configure the GitHub Actions workflow once to generate the snake animation automatically.
-
----
-
-# 🌱 Currently Building
+# 🎯 Currently Building
 
 - 🚀 Scalable Backend APIs
 - ☁️ AWS Cloud Infrastructure
-- ⚙️ CI/CD Pipelines
-- 📊 Monitoring Dashboards
+- ⚙️ CI/CD Automation
+- 📊 Monitoring & Observability
 - 🧩 System Design
-- 🔐 Cloud Security Fundamentals
+- 🔐 Cloud Security
 
 ---
 
-# 🏗️ Engineering Principles
+# ⚡ Engineering Principles
 
 - ✅ Infrastructure as Code
 - ✅ Automation First
@@ -124,7 +96,7 @@ I enjoy building production-ready backend applications and automating cloud infr
 
 ---
 
-# 🤝 Let's Connect
+# 🌐 Let's Connect
 
 <p align="center">
 
@@ -144,8 +116,10 @@ I enjoy building production-ready backend applications and automating cloud infr
 
 <div align="center">
 
-> **"Build. Automate. Monitor. Improve."**
+## ⭐ Thanks for stopping by!
 
-⭐ Thanks for visiting my profile!
+**Build. Automate. Monitor. Improve.**
+
+*Turning ideas into reliable software through backend engineering, cloud infrastructure, and automation.*
 
 </div>
