@@ -33,7 +33,7 @@ Backend & DevOps Engineer passionate about building scalable backend services, c
 
 <tr align="center">
 
-<td>NestJS • REST API</td>
+<td>NestJS • REST API's</td>
 <td>AWS • Terraform</td>
 <td>Docker • CI/CD</td>
 <td>GitHub Actions</td>
