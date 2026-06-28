@@ -1,12 +1,15 @@
-<!-- ================= HERO ================= -->
+<!-- ========================================================= -->
+<!--                  KUSHAL PILLALAMARRI PROFILE               -->
+<!-- Save your custom banner as assets/banner.png               -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1220,50:1E3A8A,100:2563EB&text=Kushal%20Pillalamarri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20DevOps%20Engineer&descAlignY=60"/>
+  <img src="./assets/banner.png" alt="Kushal Pillalamarri Banner" width="100%">
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=900&lines=Building+Backend+Services+with+NestJS;Designing+REST+APIs;Automating+Cloud+Infrastructure;AWS+%7C+Docker+%7C+Terraform+%7C+CI%2FCD;Observability+with+Grafana+%26+Prometheus;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3200&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Building+Backend+Services+with+NestJS;Designing+REST+APIs;Automating+Cloud+Infrastructure;AWS+%7C+Docker+%7C+Terraform+%7C+CI%2FCD;Observability+with+Grafana+%26+Prometheus;Always+Learning+Something+New"/>
 
 ### Building reliable backend services, cloud infrastructure & automated deployment pipelines.
 
@@ -14,17 +17,25 @@
 
 ---
 
+# 🎯 Focused On
+
+<table>
+<tr>
+<td align="center" width="20%"><b>⚙️ Backend</b></td>
+<td align="center" width="20%"><b>☁️ Cloud</b></td>
+<td align="center" width="20%"><b>🚀 DevOps</b></td>
+<td align="center" width="20%"><b>🤖 Automation</b></td>
+<td align="center" width="20%"><b>📊 Observability</b></td>
+</tr>
+</table>
+
+---
+
 # 👨‍💻 About Me
 
-I'm a **Backend & DevOps Engineer** passionate about building scalable applications and automating cloud infrastructure.
+Backend & DevOps Engineer focused on building scalable backend services, automating cloud infrastructure, and delivering reliable software.
 
-- 💻 Building **REST APIs** with **NestJS**
-- ☁️ Deploying workloads on **AWS**
-- 🐳 Containerizing applications using **Docker**
-- 🏗️ Managing infrastructure with **Terraform** & **Ansible**
-- ⚙️ Creating CI/CD pipelines using **GitHub Actions** & **Jenkins**
-- 📊 Monitoring applications with **Grafana**, **Prometheus** & **Loki**
-- 🌱 Exploring **Kubernetes**, **System Design** & **Cloud Native**
+**Experienced with:** NestJS • REST APIs • AWS • Docker • Terraform • Ansible • Jenkins • GitHub Actions • Grafana • Prometheus • Loki • PostgreSQL
 
 ---
 
@@ -36,7 +47,7 @@ I'm a **Backend & DevOps Engineer** passionate about building scalable applicati
 <img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,postgres,python"/>
 </p>
 
-### DevOps & Cloud
+### Cloud & DevOps
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,docker,terraform,ansible,jenkins,githubactions,linux,git,bash"/>
@@ -52,13 +63,32 @@ I'm a **Backend & DevOps Engineer** passionate about building scalable applicati
 
 # 📂 Featured Projects
 
-> Replace the repository names and links below with your actual repositories.
+### ⚙️ End-to-End DevOps Pipeline
+Provisioned AWS infrastructure using Terraform, containerized applications with Docker, and automated deployments through GitHub Actions and Jenkins.
 
-| Project | Tech Stack | Repository |
-|:--------|:-----------|:----------|
-| ⚙️ **End-to-End DevOps Pipeline** | AWS • Terraform • Docker • Jenkins • GitHub Actions | `Add Repository Link` |
-| ⚡ **NestJS REST API** | NestJS • PostgreSQL • JWT • Docker | `Add Repository Link` |
-| 📊 **Observability Stack** | Grafana • Prometheus • Loki • Node Exporter | `Add Repository Link` |
+**Tech Stack:** AWS • Terraform • Docker • Jenkins • GitHub Actions
+
+🔗 **Repository:** `Add your repository link`
+
+---
+
+### ⚡ NestJS REST API
+
+Production-ready REST API built with NestJS featuring authentication, PostgreSQL integration and Dockerized deployment.
+
+**Tech Stack:** NestJS • PostgreSQL • JWT • Docker
+
+🔗 **Repository:** `Add your repository link`
+
+---
+
+### 📊 Observability Stack
+
+Centralized monitoring and logging solution using Grafana, Prometheus, Loki and Node Exporter for infrastructure visibility.
+
+**Tech Stack:** Grafana • Prometheus • Loki • Node Exporter
+
+🔗 **Repository:** `Add your repository link`
 
 ---
 
@@ -77,12 +107,12 @@ I'm a **Backend & DevOps Engineer** passionate about building scalable applicati
 
 # 🎯 Currently Building
 
-- 🚀 Scalable Backend APIs
-- ☁️ AWS Cloud Infrastructure
-- ⚙️ CI/CD Automation
-- 📊 Monitoring & Observability
-- 🧩 System Design
-- 🔐 Cloud Security
+- Backend APIs with **NestJS**
+- Cloud Infrastructure on **AWS**
+- Infrastructure as Code with **Terraform**
+- CI/CD Automation
+- Monitoring Dashboards
+- System Design & Cloud Security
 
 ---
 
@@ -90,6 +120,7 @@ I'm a **Backend & DevOps Engineer** passionate about building scalable applicati
 
 - ✅ Infrastructure as Code
 - ✅ Automation First
+- ✅ Build Once, Deploy Anywhere
 - ✅ Observability by Default
 - ✅ Secure & Reliable Deployments
 - ✅ Continuous Learning
@@ -98,28 +129,38 @@ I'm a **Backend & DevOps Engineer** passionate about building scalable applicati
 
 # 🌐 Let's Connect
 
-<p align="center">
+<div align="center">
 
-<a href="https://linkedin.com/in/kushal-pillalamarri">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/kushal-pillalamarri/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
-
-&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/kushal-codehub">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:kushal-codehub@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
-</p>
+<br><br>
+
+<a href="https://www.linkedin.com/in/kushal-pillalamarri/">LinkedIn</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://github.com/kushal-codehub">GitHub</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="mailto:kushal-codehub@gmail.com">Email</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for stopping by!
+## ✨ Build. Automate. Monitor. Improve.
 
-**Build. Automate. Monitor. Improve.**
+*"Turning ideas into reliable software through backend engineering, cloud infrastructure, and automation."*
 
-*Turning ideas into reliable software through backend engineering, cloud infrastructure, and automation.*
+If you like my work, feel free to connect or explore my repositories.
 
 </div>
