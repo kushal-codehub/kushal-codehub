@@ -27,7 +27,7 @@ Backend & DevOps Engineer passionate about building scalable backend services, c
 <th width="20%">☁️ Cloud</th>
 <th width="20%">🚀 DevOps</th>
 <th width="20%">🤖 Automation</th>
-<th width="28%">📊 Observability</th>
+<th width="30%">📊 Observability</th>
 
 </tr>
 
