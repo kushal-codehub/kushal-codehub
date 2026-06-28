@@ -119,27 +119,21 @@ Centralized monitoring and logging solution using Grafana, Prometheus, Loki and 
 # 🌐 Let's Connect
 
 <p align="center">
+  <a href="https://github.com/kushal-codehub">
+    <img src="https://skillicons.dev/icons?i=github" width="22" alt="GitHub" />
+  </a>
+  <strong>&nbsp;<a href="https://github.com/kushal-codehub">GitHub</a></strong>
 
-<a href="https://github.com/kushal-codehub">
-  <img src="https://cdn.simpleicons.org/github/white" width="20" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://github.com/kushal-codehub"><b>GitHub</b></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kushal-pillalamarri/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="22" alt="LinkedIn" />
+  </a>
+  <strong>&nbsp;<a href="https://www.linkedin.com/in/kushal-pillalamarri/">LinkedIn</a></strong>
 
-<a href="https://www.linkedin.com/in/kushal-pillalamarri/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/kushal-pillalamarri/"><b>LinkedIn</b></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" alt="Email"/>
-&nbsp;
-<b>kushalpillalamarri@gmail.com</b>
-
+  📧 <strong>kushalpillalamarri@gmail.com</strong>
 </p>
 
 <p align="center">
