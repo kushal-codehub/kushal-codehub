@@ -102,9 +102,9 @@ NestJS • AWS • Terraform • CI/CD • Monitoring • System Design • Clou
 <h4>
 
 💻 <a href="https://github.com/kushal-codehub"><b>GitHub</b></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 💼 <a href="https://www.linkedin.com/in/kushal-pillalamarri/"><b>LinkedIn</b></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 📧 <b>kushalpillalamarri@gmail.com</b>
 
 </h4>
