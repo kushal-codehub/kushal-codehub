@@ -12,23 +12,42 @@
 
 ---
 
-## 🎯 Focused On
-
-<table>
-<tr>
-<td align="center" width="20%"><b>⚙️ Backend</b></td>
-<td align="center" width="20%"><b>☁️ Cloud</b></td>
-<td align="center" width="20%"><b>🚀 DevOps</b></td>
-<td align="center" width="20%"><b>🤖 Automation</b></td>
-<td align="center" width="20%"><b>📊 Observability</b></td>
-</tr>
-</table>
-
 ## 👨‍💻 About Me
 
 Backend & DevOps Engineer passionate about building scalable backend services, cloud infrastructure, and deployment automation.
 
-**Tech:** NestJS • REST APIs • AWS • Docker • Terraform • Ansible • Jenkins • GitHub Actions • Grafana • Prometheus • Loki • PostgreSQL
+**Tech Stack:** NestJS • REST APIs • AWS • Docker • Terraform • Ansible • Jenkins • GitHub Actions • Grafana • Prometheus • Loki • PostgreSQL
+
+## 🎯 What I'm Working On
+
+<table>
+<tr>
+<td align="center" width="20%">
+<b>⚙️ Backend</b><br>
+<sub>NestJS • REST APIs</sub>
+</td>
+
+<td align="center" width="20%">
+<b>☁️ Cloud</b><br>
+<sub>AWS </sub>
+</td>
+
+<td align="center" width="20%">
+<b>🚀 DevOps</b><br>
+<sub>Docker • CI/CD</sub>
+</td>
+
+<td align="center" width="20%">
+<b>🤖 Automation</b><br>
+<sub>GitHub Actions</sub>
+</td>
+
+<td align="center" width="20%">
+<b>📊 Observability</b><br>
+<sub>New Relic</sub>
+</td>
+</tr>
+</table>
 
 ## 🛠️ Core Expertise
 
