@@ -24,15 +24,11 @@
 </tr>
 </table>
 
----
-
 ## 👨‍💻 About Me
 
 Backend & DevOps Engineer passionate about building scalable backend services, cloud infrastructure, and deployment automation.
 
 **Tech:** NestJS • REST APIs • AWS • Docker • Terraform • Ansible • Jenkins • GitHub Actions • Grafana • Prometheus • Loki • PostgreSQL
-
----
 
 ## 🛠️ Core Expertise
 
@@ -73,8 +69,6 @@ Centralized monitoring and logging using Grafana, Prometheus, Loki and Node Expo
 
 🔗 **Repository:** `Add your repository link`
 
----
-
 ## 📈 My Stats
 
 <p align="center">
@@ -82,15 +76,11 @@ Centralized monitoring and logging using Grafana, Prometheus, Loki and Node Expo
   <img height="170" src="https://streak-stats.demolab.com?user=kushal-codehub&theme=github-dark&hide_border=true"/>
 </p>
 
----
-
 ## 🎯 Currently Building
 
 <p align="center">
 NestJS • AWS • Terraform • CI/CD • Monitoring • System Design • Cloud Security
 </p>
-
----
 
 ## 📩 Reach Out
 
@@ -110,7 +100,7 @@ NestJS • AWS • Terraform • CI/CD • Monitoring • System Design • Clou
 
 <div align="center">
 
-## ✨ Build. Automate. Monitor. Improve.
+### ✨ Build. Automate. Monitor. Improve.
 
 *"Turning ideas into reliable software through backend engineering, cloud infrastructure, and automation."*
 
