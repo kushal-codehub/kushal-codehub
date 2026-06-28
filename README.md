@@ -20,33 +20,27 @@ Backend & DevOps Engineer passionate about building scalable backend services, c
 
 ## 🎯 What I'm Working On
 
-<table>
-<tr>
-<td align="center" width="20%">
-<b>⚙️ Backend</b><br>
-<sub>NestJS • REST APIs</sub>
-</td>
+<table width="100%">
+<tr align="center">
 
-<td align="center" width="20%">
-<b>☁️ Cloud</b><br>
-<sub>AWS </sub>
-</td>
+<th width="20%">⚙️ Backend</th>
+<th width="20%">☁️ Cloud</th>
+<th width="20%">🚀 DevOps</th>
+<th width="20%">🤖 Automation</th>
+<th width="20%">📊 Observability</th>
 
-<td align="center" width="20%">
-<b>🚀 DevOps</b><br>
-<sub>Docker • CI/CD</sub>
-</td>
-
-<td align="center" width="20%">
-<b>🤖 Automation</b><br>
-<sub>GitHub Actions</sub>
-</td>
-
-<td align="center" width="20%">
-<b>📊 Observability</b><br>
-<sub>New Relic</sub>
-</td>
 </tr>
+
+<tr align="center">
+
+<td>NestJS • REST APIs</td>
+<td>AWS • Terraform</td>
+<td>Docker • CI/CD</td>
+<td>GitHub Actions</td>
+<td>Grafana • Prometheus</td>
+
+</tr>
+
 </table>
 
 ## 🛠️ Core Expertise
