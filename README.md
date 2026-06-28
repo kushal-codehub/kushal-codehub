@@ -20,7 +20,7 @@ Backend & DevOps Engineer passionate about building scalable backend services, c
 
 ## 🎯 What I'm Working On
 
-<table width="100%">
+<table>
 <tr align="center">
 
 <th width="23%">⚙️ Backend</th>
