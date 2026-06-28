@@ -128,7 +128,7 @@ Centralized monitoring and logging solution using Grafana, Prometheus, Loki and 
 <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:kushal-codehub@gmail.com">
+<a href="mailto:kushalpillalamarri@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
