@@ -149,7 +149,7 @@ Centralized monitoring and logging solution using Grafana, Prometheus, Loki and 
 &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://github.com/kushal-codehub">GitHub</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="mailto:kushal-codehub@gmail.com">Email</a>
+<a href="mailto:kushalpillalamarri@gmail.com">Email</a>
 
 </div>
 
