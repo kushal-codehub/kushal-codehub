@@ -116,17 +116,15 @@ Centralized monitoring and logging solution using Grafana, Prometheus, Loki and 
 
 ---
 
-# 🌐 Let's Connect
+# 🌐 Connect With Me
 
 <div align="center">
 
 🐙 <a href="https://github.com/kushal-codehub"><b>GitHub</b></a>
-&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 💼 <a href="https://www.linkedin.com/in/kushal-pillalamarri/"><b>LinkedIn</b></a>
-&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 📧 <b>kushalpillalamarri@gmail.com</b>
-
-<br><br>
 
 <sub>
 Open to Backend • DevOps • Cloud Engineering opportunities
