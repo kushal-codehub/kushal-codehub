@@ -23,17 +23,17 @@ Backend & DevOps Engineer passionate about building scalable backend services, c
 <table>
 <tr align="center">
 
-<th width="21%">⚙️ Backend</th>
+<th width="20%">⚙️ Backend</th>
 <th width="19%">☁️ Cloud</th>
 <th width="18%">🚀 DevOps</th>
 <th width="19%">🤖 Automation</th>
-<th width="23%">📊 Observability</th>
+<th width="24%">📊 Observability</th>
 
 </tr>
 
 <tr align="center">
 
-<td>NestJS • REST APIs</td>
+<td>NestJS • REST API</td>
 <td>AWS • Terraform</td>
 <td>Docker • CI/CD</td>
 <td>GitHub Actions</td>
