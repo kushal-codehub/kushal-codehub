@@ -116,17 +116,6 @@ Centralized monitoring and logging solution using Grafana, Prometheus, Loki and 
 
 ---
 
-# ⚡ Engineering Principles
-
-- ✅ Infrastructure as Code
-- ✅ Automation First
-- ✅ Build Once, Deploy Anywhere
-- ✅ Observability by Default
-- ✅ Secure & Reliable Deployments
-- ✅ Continuous Learning
-
----
-
 # 🌐 Let's Connect
 
 <div align="center">
